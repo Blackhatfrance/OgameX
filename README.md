@@ -1,0 +1,2 @@
+# OgameX
+OgameX.net database
